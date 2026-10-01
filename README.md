@@ -1,34 +1,107 @@
-# Hi, I'm Pranav Devabathini 👋
+Hi, I’m Pranav Devabathini 👋
 
-Founder & CEO of [Learning Destiny Pvt. Ltd.](https://learningdestiny.in) | Web Developer | Tech Enthusiast | Aspiring MS Student
+AI Product Manager • Founder & CEO • Product Builder
 
-## 🚀 About Me
-I am currently pursuing my final year of B.Tech in Computer Science Engineering at OSGU, Hisar. I am passionate about building innovative solutions and using technology to empower others through education. As the founder of Learning Destiny, an edtech platform, I provide on-demand IT courses, startup support, career guidance, youth events & many more.
+I build AI-powered products from user insight → product strategy → shipped experience.
 
-### 🎯 My Goals:
-- To integrate advanced algorithms and data analytics into my startup to solve real-world problems.
-- To further my studies in the USA and expand my network globally.
-- To scale **Learning Destiny** and contribute to cutting-edge tech innovations.
+My work sits at the intersection of AI, product management, technology, and entrepreneurship. I enjoy identifying real user problems, turning ambiguous ideas into clear product direction, and working across product, design, and engineering to bring solutions to life.
 
-## 🛠️ Technologies & Tools:
-- **Languages**: Python, JavaScript, HTML, CSS
-- **Frameworks**: React, Django, Node.js
-- **Tools**: Git, VS Code, Docker
-- **Other Skills**: Machine Learning, Data Science, Business Intelligence, Database Management
+⸻
 
-## 🌟 Notable Projects:
-- **[Learning Destiny](https://github.com/your-repo-link)**: An edtech platform offering IT courses and startup mentorship.
-- **[Forge Style](https://github.com/your-repo-link)**: A website for my clothing brand, Forge Style, offering trendy fashion products.
-  
-## 📈 Experience:
-- **Web Developer Intern**: [Solar Secure Solutions](https://www.letsintern.com)
-- **Community Influencer**: [InAmigos Foundation](https://www.inamigos.org)
+🚀 About Me
 
-## 📫 Get in Touch:
-- **Email**: devabakthunipranav2022@gmail.com
-- **LinkedIn**: [Pranav Devabathini](https://www.linkedin.com/in/pranavdevabathini)
-- **Instagram**: [@learning_destiny](https://www.instagram.com/learning_destiny)
+* 💼 Founder & CEO — Learning Destiny Pvt. Ltd.
+* 🤖 Focused on AI Product Management & AI-powered products
+* 🧠 Interested in Generative AI, agentic systems, product strategy, and emerging technology
+* 🛠️ Experience taking products from idea and research to development and launch
+* 📊 Learning Destiny achieved 40% user retention
+* 🎯 Exploring Product Management and AI Product opportunities
+* 📍 Based in Austin, Texas
 
----
+I approach technology from a product-first perspective:
 
-Check out my GitHub projects and feel free to collaborate!
+What problem are we solving? → Who are we solving it for? → Why does it matter? → What should we build? → How do we know it worked?
+
+⸻
+
+🧩 What I Work On
+
+AI & Product
+
+Product discovery • User research • Product strategy • PRDs • Roadmaps • Prioritization • Prototyping • AI/LLM products • Experimentation • Product analytics
+
+Technical
+
+Python • JavaScript • HTML/CSS • React • APIs • Git/GitHub • SQL • Machine Learning • Data Science
+
+Tools
+
+Figma • GitHub • VS Code • Jira • Notion • AI development tools
+
+⸻
+
+🌟 Featured Work
+
+🎓 Learning Destiny
+
+Founder & CEO
+
+An education technology platform built to help learners develop skills and move toward career opportunities.
+
+Highlights
+
+* Built and launched the product from concept to production
+* Led product direction and feature development
+* Worked across product, technology, content, and growth
+* Achieved 40% user retention
+* Used user needs and feedback to guide product decisions
+
+⸻
+
+🤖 AI Product Projects
+
+I build product experiments and prototypes exploring how AI can simplify workflows, improve decision-making, and create better user experiences.
+
+My repositories include work across:
+
+AI • Product Development • Data Science • Automation • Web Applications • Experimental Products
+
+Check out my pinned repositories below ↓
+
+⸻
+
+🧠 How I Think About Products
+
+Great products aren’t just collections of features.
+
+They start with understanding people, problems, behavior, and context.
+
+My approach:
+
+Discover → Define → Prioritize → Build → Measure → Learn → Iterate
+
+I’m especially interested in products where AI becomes part of the experience, rather than simply being added as a feature.
+
+⸻
+
+🎯 Currently
+
+* Building and experimenting with AI-powered products
+* Exploring AI Product Management
+* Developing my portfolio of product case studies and shipped projects
+* Learning more about LLMs, AI agents, product analytics, and AI-native UX
+* Looking for opportunities to work on products used at meaningful scale
+
+⸻
+
+🤝 Let’s Connect
+
+I’m always interested in conversations around AI, product management, startups, and emerging technology.
+
+Portfolio: Pranav Devabathini — Product Portfolio
+LinkedIn: Pranav Devabathini
+GitHub: @Pranavd1911
+
+⸻
+
+💡 Build for the problem. Measure the outcome. Learn from the user.
