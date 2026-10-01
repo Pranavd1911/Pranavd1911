@@ -1,107 +1,109 @@
-Hi, I’m Pranav Devabathini 👋
+# Hi, I'm Pranav Devabathini 👋
 
-AI Product Manager • Founder & CEO • Product Builder
+### AI Product Manager | Founder & CEO | Product Builder
 
-I build AI-powered products from user insight → product strategy → shipped experience.
+I turn **user insights into product direction** and ideas into **AI-powered experiences that help people move forward**.
 
-My work sits at the intersection of AI, product management, technology, and entrepreneurship. I enjoy identifying real user problems, turning ambiguous ideas into clear product direction, and working across product, design, and engineering to bring solutions to life.
+I'm the **Founder & CEO of Learning Destiny Pvt. Ltd.**, where I lead product strategy, development, and growth. I enjoy working at the intersection of **AI, product management, technology, and entrepreneurship** — identifying meaningful problems, defining what to build, and turning ideas into shipped products.
 
-⸻
+---
 
-🚀 About Me
+## 🚀 What I Do
 
-* 💼 Founder & CEO — Learning Destiny Pvt. Ltd.
-* 🤖 Focused on AI Product Management & AI-powered products
-* 🧠 Interested in Generative AI, agentic systems, product strategy, and emerging technology
-* 🛠️ Experience taking products from idea and research to development and launch
-* 📊 Learning Destiny achieved 40% user retention
-* 🎯 Exploring Product Management and AI Product opportunities
-* 📍 Based in Austin, Texas
+- 🤖 Build and experiment with **AI-powered products**
+- 🧭 Define **product strategy, roadmaps, and requirements**
+- 🔍 Conduct **user research and problem discovery**
+- 📝 Translate insights into **PRDs and product decisions**
+- 📊 Use **analytics and experimentation** to measure outcomes
+- 🛠️ Take products from **0 → 1**, from idea to launch
+- 👥 Work across **product, design, engineering, and business**
 
-I approach technology from a product-first perspective:
+---
 
-What problem are we solving? → Who are we solving it for? → Why does it matter? → What should we build? → How do we know it worked?
+## 💼 Founder & CEO — Learning Destiny
 
-⸻
+Building an education technology platform focused on helping learners develop skills and move toward meaningful career opportunities.
 
-🧩 What I Work On
+**What I've worked on:**
 
-AI & Product
+- Led the product from **concept to launch**
+- Defined product vision, strategy, and feature priorities
+- Built and shipped product experiences based on user needs
+- Worked across product, technology, content, and growth
+- Achieved **40% user retention**
+- Iterated on the product using user feedback and behavioral insights
 
-Product discovery • User research • Product strategy • PRDs • Roadmaps • Prioritization • Prototyping • AI/LLM products • Experimentation • Product analytics
+---
 
-Technical
+## 🧠 Product Areas I'm Interested In
 
-Python • JavaScript • HTML/CSS • React • APIs • Git/GitHub • SQL • Machine Learning • Data Science
+**AI Product Management** • **Generative AI** • **AI Agents** • **Product Strategy** • **Product Discovery** • **Product Analytics** • **0→1 Products** • **AI-Native UX** • **Emerging Technology**
 
-Tools
+---
 
-Figma • GitHub • VS Code • Jira • Notion • AI development tools
+## 🛠️ Product & Technical Toolkit
 
-⸻
+**Product**
 
-🌟 Featured Work
+Product Strategy • User Research • PRDs • Roadmapping • Prioritization • Product Discovery • Experimentation • Product Analytics • Agile
 
-🎓 Learning Destiny
+**AI & Data**
 
-Founder & CEO
+Generative AI • LLMs • AI Agents • Machine Learning • Data Science • Prompt Engineering
 
-An education technology platform built to help learners develop skills and move toward career opportunities.
+**Technical**
 
-Highlights
+Python • JavaScript • SQL • HTML/CSS • React • APIs • Git/GitHub
 
-* Built and launched the product from concept to production
-* Led product direction and feature development
-* Worked across product, technology, content, and growth
-* Achieved 40% user retention
-* Used user needs and feedback to guide product decisions
+**Tools**
 
-⸻
+Figma • Jira • Notion • GitHub • VS Code
 
-🤖 AI Product Projects
+---
 
-I build product experiments and prototypes exploring how AI can simplify workflows, improve decision-making, and create better user experiences.
+## 🌟 Featured Work
 
-My repositories include work across:
+My work spans **AI products, product experiments, data-driven applications, and startup development**.
 
-AI • Product Development • Data Science • Automation • Web Applications • Experimental Products
+I use projects to explore one central question:
 
-Check out my pinned repositories below ↓
+> **How can technology solve a real user problem in a simpler and more useful way?**
 
-⸻
+Check out my pinned repositories below for selected work.
 
-🧠 How I Think About Products
+---
 
-Great products aren’t just collections of features.
+## 🔄 How I Build Products
 
-They start with understanding people, problems, behavior, and context.
+**Discover → Define → Prioritize → Build → Measure → Learn → Iterate**
 
-My approach:
+I believe strong products start with understanding the **user and the problem**, not the technology.
 
-Discover → Define → Prioritize → Build → Measure → Learn → Iterate
+AI is most valuable when it meaningfully improves the experience — not when it's added simply because it's AI.
 
-I’m especially interested in products where AI becomes part of the experience, rather than simply being added as a feature.
+---
 
-⸻
+## 🎯 Currently
 
-🎯 Currently
+- Building **AI-powered products and experiments**
+- Exploring **AI Product Management & Product Management opportunities**
+- Developing products from **0 → 1**
+- Exploring **LLMs, AI agents, and AI-native product experiences**
+- Strengthening my work in **product analytics and experimentation**
+- Building products designed to create measurable user impact
 
-* Building and experimenting with AI-powered products
-* Exploring AI Product Management
-* Developing my portfolio of product case studies and shipped projects
-* Learning more about LLMs, AI agents, product analytics, and AI-native UX
-* Looking for opportunities to work on products used at meaningful scale
+---
 
-⸻
+## 🤝 Let's Connect
 
-🤝 Let’s Connect
+I'm interested in connecting with people working on **AI, product management, startups, and emerging technology**.
 
-I’m always interested in conversations around AI, product management, startups, and emerging technology.
+🌐 **Portfolio:** [pranavd1911.github.io/pranav-devabathini-portfolio](https://pranavd1911.github.io/pranav-devabathini-portfolio/)
 
-Portfolio: Pranav Devabathini — Product Portfolio
-LinkedIn: Pranav Devabathini
-GitHub: @Pranavd1911
+💼 **LinkedIn:** [Pranav Devabathini](https://www.linkedin.com/in/pranav-devabathini-bb1516255)
 
-⸻
+💻 **GitHub:** [@Pranavd1911](https://github.com/Pranavd1911)
 
-💡 Build for the problem. Measure the outcome. Learn from the user.
+---
+
+### Build for the problem. Measure the outcome. Learn from the user.
